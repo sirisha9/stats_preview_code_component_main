@@ -85,14 +85,14 @@ section ul p{
     min-height: 10em;
     width: 540px;
     min-width: 200px;
-    background-image: url("images/image-header-desktop.JPG");
+    background-image: url("./images/image-header-desktop.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 0 10px 10px 0;
     overflow: hidden;
 }
 .overlay{
-    background-color: var(--violet);
+   
     opacity: 0.5;
     height: 100%;
 }
