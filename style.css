@@ -93,6 +93,7 @@ section ul p{
 }
 .overlay{
     background-color: var(--violet);
+    opacity: 0.5;
     height: 100%;
 }
 .overlay-2{
